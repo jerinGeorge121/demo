@@ -5,8 +5,18 @@
     { "id": 3, "title": "Post 3" }
   ],
   "comments": [
-    { "id": 1, "body": "some nnn", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    {
+		"id": 1,
+		"name": "Apple Inc.",
+		"ric": "APPL",
+		"sharePrice": 226.304
+	},
+    {
+		"id": 1,
+		"name": "Apple Inc.",
+		"ric": "APPL",
+		"sharePrice": 226.304
+	}
   ],
   "profile": {
     "name": "typicode"
